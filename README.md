@@ -1,3 +1,5 @@
+# THIS REPOSITORY IS ARCHIVED AND WILL BE REMOVED SOON
+
 # Addon for Billplz for WooCommerce
 
 Add features to auto direct to Bank Page for your current Billplz for WooCommerce installation.
